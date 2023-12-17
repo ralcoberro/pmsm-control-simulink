@@ -1,1 +1,1 @@
-# PMSM Control using Non-Linear Observer in Simulink
+# PMSM Control using Nonlinear Observer in Simulink
